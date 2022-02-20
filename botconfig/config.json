@@ -1,0 +1,66 @@
+{
+  "token": "OTM5MDIxOTc0MjI1NzExMTU2.YfyyXA.trLhVTHpOxeWoeR_JP2qBo3qUa4",
+  "mongo": "mongodb+srv://rlx:rlx@rlx2.yulr9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "prefix": "$",
+  "clientsettings": {
+    "nodes": [
+      {
+        "host": "lavalink-repl.rajmadeadz.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "secure": true 
+      },
+       {
+        "host": "lavalink-repl.rajmadeadz.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "secure": true 
+      },
+      {
+        "host": "lavalink-repl.rajmadeadz.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "secure": true 
+      },
+      {
+        "host": "lavalink-repl.rajmadeadz.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "secure": true 
+      }
+    ]
+  },
+  "spotify": {
+    "clientSecret": "bdbfea29444c451d95c03581480e34ae",
+    "clientID": "be8b7b2b80c5464bb85bb30bb632e236"
+  },
+  "settings": {
+    "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": ":<:s_progress:866946355891929098>",
+    "leaveOnEmpty_Channel": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+  "links": {
+    "server": "https://discord.gg/dwop",
+    "opbotinv": "https://discord.com/api/oauth2/authorize?client_id=939021974225711156&permissions=8&scope=bot",
+    "opmusicinv": "https://discord.com/api/oauth2/authorize?client_id=939021974225711156&permissions=1643160010609&scope=bot",
+    "opmusic2inv": "https://discord.com/api/oauth2/authorize?client_id=939021974225711156&permissions=8&scope=bot",
+    "opmusic3inv": "https://discord.com/api/oauth2/authorize?client_id=939021974225711156&permissions=1643160010609&scope=bott",
+    "opmusicvote": "https://discord.gg/dwop"
+  },
+  "ownerIDS": [
+    "924718567792984074",
+    "924718567792984074",
+    "924718567792984074",
+    "924718567792984074",
+      "924718567792984074"
+  ]
+}
